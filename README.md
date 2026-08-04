@@ -13,7 +13,7 @@ pinned: false
 
 DentAlign is an interactive patient–clinician dental care prototype covering the full journey from treatment explanation to recovery follow-up.
 
-**Live demo:** https://eeedith.github.io/dentalign-demo/
+**Live demo:**https://eeedith-dentalign-demo.static.hf.space/index.html
 
 ## What is included
 
