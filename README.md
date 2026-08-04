@@ -13,7 +13,7 @@ pinned: false
 
 DentAlign is an interactive patient–clinician dental care prototype covering the full journey from treatment explanation to recovery follow-up.
 
-**Live demo:** https://huberygg.github.io/dentalign-interactive/
+**Live demo:** https://dentalign-interactive-prototype.ustinchoen.chatgpt.site/
 
 ## What is included
 
@@ -32,8 +32,8 @@ All patient and clinical data in this repository is fictional and intended only 
 Requirements: Node.js `>=22.13.0` and npm.
 
 ```bash
-git clone https://github.com/HuberyGG/dentalign.git
-cd dentalign
+git clone https://github.com/Eeedith/dentalign-demo.git
+cd dentalign-demo
 npm install
 npm run dev
 ```
